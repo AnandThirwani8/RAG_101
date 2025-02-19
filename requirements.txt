@@ -1,0 +1,12 @@
+ipykernel
+ipywidgets
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn 
+langchain_community
+langchain
+langchain-google-genai
+pypdf
+chromadb
